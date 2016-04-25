@@ -1,0 +1,10 @@
+Let x = 0;
+Let y = 1;
+
+y = x + 1;
+y = 4 + 3;
+
+x + y = 1;
+
+Print x;
+Print y;

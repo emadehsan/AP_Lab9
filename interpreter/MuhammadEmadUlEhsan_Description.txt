@@ -1,0 +1,18 @@
+GitHub repository:
+	https://github.com/emadehsan/AP_Lab9.git
+	
+	Implementation details
+	
+	1. Following Methods are used to implement the scenario.
+	
+		AddAndSave
+		SubtractAndSave
+		MultiplyAndSave
+		DivideAndSave
+		Let
+		Print
+		
+	2. HashMaps holds variables and their values
+	3. Syntax errors are checked.
+	
+	Keywords:	Print, Let (as required in Lab manual)
